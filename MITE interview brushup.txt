@@ -1,0 +1,50 @@
+Building an application:
+	Technology:
+		UI/ Presentation logic		>> Wigets, Components, elemnts >> TextBox, DropDowns, Buttons
+		HTML, CSS, Bootstrap, JS(Interactive client)
+
+		Backend/ Business logic	>> Coding
+
+accept the request client >> http>> 
+	webservice(SOAP,REST), 
+	pages
+process the request:
+	Perform the required operation: CRUD
+	Connect Database
+response to the client:
+	webservice>> APP, Other websites	>> data
+	pages		>> data, components
+
+Java, Python, Java Script
+
+Frameworks:
+	Spring Boot
+	Hinernate/ JPA
+
+
+		Data/ Stoarage logic:
+			SQL			>> Table(Column, row)
+			NoSQL		>> documents(key:value)
+
+
+Foundation:
+	Back end:
+		Java:
+			Secure & re-usability
+				Google	>> account	>> gmail >> webapp
+				Youtube, Playstore, Drive, GCP, Firebase
+		OOP:
+			Core Idea	>> software functionality
+			
+	Data logic:
+
+
+
+Database:
+DDL: database,table,views,triggers, sequence, procedures
+	create,alter,drop, truncate
+DML: insert, update, delete
+DCL: grant, revoke
+DQL: Select, joins
+TCL: commit, rollback
+
